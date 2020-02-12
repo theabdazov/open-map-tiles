@@ -1,0 +1,21 @@
+:host{
+  display: block;
+  padding: 10px;
+  height: 100%;
+  height: calc(100% - 20px);
+}
+
+.map-container {
+  margin-top: 20px;
+  height: 500px;
+  height: calc(100% - 60px);
+}
+
+.map-frame {
+  border: 2px solid black;
+  height: 100%;
+}
+
+#map {
+  height: 100%;
+}
